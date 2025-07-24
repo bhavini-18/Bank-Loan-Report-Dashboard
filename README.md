@@ -5,15 +5,15 @@ However, it's essential for borrowers to understand the terms, costs, and respon
 ## Dataset used
 -<a href="https://github.com/bhavini-18/Bank-Loan-Report-Dashboard/blob/main/financial_loan.csv">Dataset</a>
 ## Visual KPIs
-#### How many total loan applications were submitted?
-#### What is the total funded loan amount?
-#### What is the total amount received from loans?
-#### Loan Applications by Month
-#### Total Amount Received by State
-#### Loan Applications by Term (36 vs 60 months)
-#### Applications by Employment Length
-#### Loan Applications by Purpose
-#### Loan Applications by Home Ownership
+- How many total loan applications were submitted?
+- What is the total funded loan amount?
+- What is the total amount received from loans?
+- Loan Applications by Month
+- Total Amount Received by State
+- Loan Applications by Term (36 vs 60 months)
+- Applications by Employment Length
+- Loan Applications by Purpose
+- Loan Applications by Home Ownership
 
 ## Dashboard Images
 
@@ -25,21 +25,21 @@ However, it's essential for borrowers to understand the terms, costs, and respon
 
 - Perform the queries in sql
 - Load the Data
-Clean & Transform Data (Power Query Editor)
-Create Relationships (if multiple tables)
-Create Calculated Fields & Measures (DAX)
-Build Visuals
-Add Filters and Slicers
-Format the Dashboard
-Add Interactivity
-Test the Dashboard
-Interact with visuals to ensure filters and slicers work.
-Validate all KPIs and calculations.
-Check responsiveness across pages and visuals.
+- Clean & Transform Data (Power Query Editor)
+- Create Relationships (if multiple tables)
+- Create Calculated Fields & Measures (DAX)
+- Build Visuals
+- Add Filters and Slicers
+- Format the Dashboard
+- Add Interactivity
+- Test the Dashboard
+- Interact with visuals to ensure filters and slicers work.
+- Validate all KPIs and calculations.
+- Check responsiveness across pages and visuals.
 
 ## project insight-
--A total of 38.6K loan applications were processed, with $435.8M funded and $473.1M received. 
--Good loans make up 86.2% of the portfolio, showing healthy lending practices, while bad loans account for 13.8%.
--Monthly trends indicate steady growth in loan applications throughout the year.
--Average interest and DTI rates (12% and 13.3%) reflect moderate lending risk. 
--The dashboard allows filtering by state, grade, term, and purpose for detailed analysis.
+- A total of 38.6K loan applications were processed, with $435.8M funded and $473.1M received. 
+- Good loans make up 86.2% of the portfolio, showing healthy lending practices, while bad loans account for 13.8%.
+- Monthly trends indicate steady growth in loan applications throughout the year.
+- Average interest and DTI rates (12% and 13.3%) reflect moderate lending risk. 
+- The dashboard allows filtering by state, grade, term, and purpose for detailed analysis.
