@@ -37,9 +37,12 @@ However, it's essential for borrowers to understand the terms, costs, and respon
 - Validate all KPIs and calculations.
 - Check responsiveness across pages and visuals.
 
-## project insight-
+## Project insight
 - A total of 38.6K loan applications were processed, with $435.8M funded and $473.1M received. 
 - Good loans make up 86.2% of the portfolio, showing healthy lending practices, while bad loans account for 13.8%.
 - Monthly trends indicate steady growth in loan applications throughout the year.
 - Average interest and DTI rates (12% and 13.3%) reflect moderate lending risk. 
 - The dashboard allows filtering by state, grade, term, and purpose for detailed analysis.
+
+  ## Conclusion
+  The Bank Loan Report Power BI dashboards provide a comprehensive and insightful overview of the bank’s loan performance and customer behavior. With a total of 38.6K loan applications processed, the data shows that 86.2% were classified as good loans, indicating effective risk assessment and strong loan quality. The bank has funded $435.8M and received $473.1M, reflecting positive returns. Most loans were taken for debt consolidation, mainly by applicants with over 10 years of employment, highlighting a reliable customer segment. Monthly trends show consistent growth in applications, suggesting increasing customer engagement. Average interest (12%) and debt-to-income (13.3%) ratios reflect manageable financial risk. The dashboard's interactivity allows for detailed filtering by loan purpose, geography, term, and borrower profile, enabling deep analysis. Overall, the dashboards support informed decision-making by giving a clear picture of financial performance, risk distribution, and market trends, helping the bank optimize loan strategies and improve operational efficiency.
