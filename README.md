@@ -22,8 +22,9 @@ However, it's essential for borrowers to understand the terms, costs, and respon
 <img width="1319" height="747" alt="Details" src="https://github.com/user-attachments/assets/2264bb95-88a9-4d0f-9cd3-50c9007dc728" />
 
 ## Process
-Perform the queries in sql
-Load the Data
+
+- Perform the queries in sql
+- Load the Data
 Clean & Transform Data (Power Query Editor)
 Create Relationships (if multiple tables)
 Create Calculated Fields & Measures (DAX)
