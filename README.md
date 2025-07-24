@@ -8,12 +8,12 @@ However, it's essential for borrowers to understand the terms, costs, and respon
 #### How many total loan applications were submitted?
 #### What is the total funded loan amount?
 #### What is the total amount received from loans?
-#### Loan Applications by Month:
-#### Total Amount Received by State:
-#### Loan Applications by Term (36 vs 60 months):
-#### Applications by Employment Length:
-#### Loan Applications by Purpose:
-#### Loan Applications by Home Ownership:
+#### Loan Applications by Month
+#### Total Amount Received by State
+#### Loan Applications by Term (36 vs 60 months)
+#### Applications by Employment Length
+#### Loan Applications by Purpose
+#### Loan Applications by Home Ownership
 
 ## Dashboard Images
 
